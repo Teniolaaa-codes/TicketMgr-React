@@ -17,13 +17,13 @@ A a robust ticket management web application built with **React + Vite + Tailwin
 
 
  ## 🧠 Core Pages
-Page	        Description
-/	            Home page overview
-/about	        About the project
-/auth/signup	Create new account
-/auth/login	    User login page
-/dashboard	    Protected user dashboard
-/tickets	    Manage tickets page
+Page	        - Description
+/	           - Home page overview
+/about	      - About the project
+/auth/signup -	Create new account
+/auth/login	 - User login page
+/dashboard	  - Protected user dashboard
+/tickets	    - Manage tickets page
 
 
 ## 🧑‍💻 How to Run Locally
@@ -57,6 +57,7 @@ Page	        Description
 
 
 ## 🧩 Developed as part of Ticket Management System assignment.
+
 
 
 
