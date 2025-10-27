@@ -31,7 +31,7 @@ Page	        Description
 
 2. Navigate into the project
    ```bash
-   cd ticket-mgr-react
+   cd ticketmgr-react
 
 
 3. Install dependencies
@@ -55,4 +55,5 @@ Page	        Description
 
 
 ## 🧩 Developed as part of Ticket Management System assignment.
+
 
