@@ -37,7 +37,7 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Wavy SVG background with animation */}
+      {/* Wavy SVG background */}
       <svg
         className="absolute bottom-0 left-0 w-full z-0 animate-waveMotion"
         viewBox="0 0 1440 320"
@@ -76,3 +76,4 @@ export default function Hero() {
     </section>
   );
 }
+
