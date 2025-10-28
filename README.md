@@ -29,7 +29,7 @@ Page	        - Description
 ## 🧑‍💻 How to Run Locally
 1. Clone this repository  
    ```bash
-   git clone https://github.com/Teniolaaa-codes/TicketMgr.git
+   git clone https://github.com/Teniolaaa-codes/TicketMgr-react.git
 
 2. Navigate into the project
    ```bash
@@ -57,6 +57,7 @@ Page	        - Description
 
 
 ## 🧩 Developed as part of Ticket Management System assignment.
+
 
 
 
